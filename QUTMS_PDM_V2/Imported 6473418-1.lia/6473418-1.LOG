@@ -1,0 +1,30 @@
+PCAD Importer Log
+Project : 6473418-1.LibPkg
+
+Section : C:\Users\Jonn\Desktop\QUTMS_PDM_V2\6473418-1.lia
+    Section : PCB Library - 6473418-1.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 6473418-1 On Line 199
+            Warning - 1 : Skipping Token attachedSymbol On Line 489
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 6473418-1.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token multiLayer On Line 107
+            Warning - 1 : Skipping Token layerContents On Line 136
+            Warning - 1 : Skipping Token layerContents On Line 147
+            Warning - 1 : Skipping Token layerContents On Line 167
+            Warning - 1 : Skipping Token layerContents On Line 187
+        EndSection
+
+        Section : Generating SCH Library - 6473418-1.SchLib
+        EndSection
+    EndSection
+EndSection

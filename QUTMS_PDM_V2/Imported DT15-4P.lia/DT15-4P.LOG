@@ -1,0 +1,30 @@
+PCAD Importer Log
+Project : DT15-4P.LibPkg
+
+Section : C:\Users\Jonn\Desktop\QUTMS_PDM_V2\DT15-4P.lia
+    Section : PCB Library - DT15-4P.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token DT15-4P On Line 148
+            Warning - 1 : Skipping Token attachedSymbol On Line 217
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - DT15-4P.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token multiLayer On Line 107
+            Warning - 1 : Skipping Token layerContents On Line 117
+            Warning - 1 : Skipping Token layerContents On Line 124
+            Warning - 1 : Skipping Token layerContents On Line 132
+            Warning - 1 : Skipping Token layerContents On Line 140
+        EndSection
+
+        Section : Generating SCH Library - DT15-4P.SchLib
+        EndSection
+    EndSection
+EndSection
