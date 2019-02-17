@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetJ4_2 Pin=Q1-3
+Removed Pin From Net: NetName=NetJ4_1 Pin=Q3-3
+Added Pin To Net: NetName=NetJ4_1 Pin=Q1-3
+Added Pin To Net: NetName=NetJ4_2 Pin=Q3-3
+Added Room: Name=ConnectorIn
+Added Room: Name=ConnectorOut
+Added Room: Name=MCU
+Added Room: Name=MOSFETs
+Added Room: Name=PowerSupply
