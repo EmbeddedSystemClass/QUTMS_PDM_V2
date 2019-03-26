@@ -1,3 +1,4 @@
+![QUTMS_Banner](https://raw.githubusercontent.com/Technosasquach/QUTMS_Master/master/src/qutmsBanner.jpg)
 # QUTMS PDM
 The second version of the Power Distribution Module.
 
